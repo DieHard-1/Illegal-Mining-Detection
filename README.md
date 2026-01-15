@@ -74,7 +74,7 @@ Illegal-Mining-Detection/
 │ └── app.py
 │
 └── README.md
-
+```
 Please download and extract the data directory and place in the directory according to the file structure given below [link](https://drive.google.com/file/d/1DWoU4oEyWLpueobO55T86ewA9aLhmnl7/view?usp=sharing)
 
 ---
@@ -192,5 +192,6 @@ Run using:
 ```bash
 cd web
 streamlit run app.py
+
 
 
