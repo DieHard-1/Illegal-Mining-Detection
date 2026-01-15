@@ -1,4 +1,4 @@
-## 1. Project Overview
+dd## 1. Project Overview
 
 This project implements an end-to-end, unsupervised system for detecting illegal mining activity using multi-temporal Sentinel-2 satellite imagery.
 
@@ -22,8 +22,6 @@ Early pipeline stages allow noisy detections, while later stages enforce strict 
 ---
 
 ## 3. Directory Structure
-
-Please download and extract the data directory and place in the directory according to the file structure given below [link](https://drive.google.com/file/d/1DWoU4oEyWLpueobO55T86ewA9aLhmnl7/view?usp=sharing)
 
 Illegal-Mining-Detection/
 │
@@ -76,6 +74,7 @@ Illegal-Mining-Detection/
 │
 └── README.md
 
+Please download and extract the data directory and place in the directory according to the file structure given below [link](https://drive.google.com/file/d/1DWoU4oEyWLpueobO55T86ewA9aLhmnl7/view?usp=sharing)
 
 ---
 
@@ -192,4 +191,5 @@ Run using:
 ```bash
 cd web
 streamlit run app.py
+
 
