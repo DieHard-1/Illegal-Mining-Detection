@@ -33,7 +33,7 @@ TOTAL_MINES = 506
 BASE_DATA = "../data"
 BASE_OUTPUTS = "../outputs"
 
-STEP1_SENTINEL = os.path.join(BASE_DATA, "step1_sentinel")
+#STEP1_SENTINEL = os.path.join(BASE_DATA, "step1_sentinel")
 STEP4_CHANGES = os.path.join(BASE_DATA, "step4_changes")
 STEP5_REGIONS = os.path.join(BASE_DATA, "step5_regions")
 
@@ -328,3 +328,4 @@ def main():
 # =============================================================================
 if __name__ == "__main__":
     main()
+
