@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "evaluation_date": "2026-01-14T14:17:31.854932",
+    "time_period": "2023-01-01 to 2023-12-31",
+    "total_mines": 506,
+    "pipeline_version": "1.0"
+  },
+  "zone_distribution": {
+    "nogo_mines": 150,
+    "legal_mines": 356,
+    "nogo_percentage": 29.64426877470356,
+    "legal_percentage": 70.35573122529645
+  },
+  "detection_metrics": {
+    "mines_with_activity": 91,
+    "mines_with_violations": 25,
+    "mines_with_legal_activity": 66,
+    "total_violation_instances": 25,
+    "detection_rate": 0.17984189723320157,
+    "violation_rate_in_nogo": 0.16666666666666666,
+    "activity_rate_in_legal": 0.1853932584269663
+  },
+  "temporal_consistency": {
+    "avg_growth_consistency": 0.5969277757815308,
+    "mines_with_consistent_growth": 428,
+    "consistency_threshold": 0.5
+  },
+  "area_statistics": {
+    "total_excavated_area_m2": 2885940045.1567,
+    "total_excavated_area_km2": 2885.9400451567003,
+    "avg_excavated_area_per_mine_m2": 5703438.824420356,
+    "max_single_mine_area_m2": 281056863.7440001,
+    "total_violation_area_m2": 89209063.44699998,
+    "total_violation_area_km2": 89.20906344699998,
+    "total_legal_area_m2": 37788732.04799999,
+    "total_legal_area_km2": 37.78873204799999
+  },
+  "spatial_metrics": {
+    "avg_regions_per_mine": 49.59417425674515,
+    "total_detected_regions": 577177
+  },
+  "severity_breakdown": {
+    "high_severity": 23,
+    "medium_severity": 2
+  }
+}

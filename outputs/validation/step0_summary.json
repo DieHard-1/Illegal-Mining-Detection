@@ -1,0 +1,28 @@
+{
+  "total_mines": 506,
+  "geometry_types": {
+    "Polygon": 505,
+    "MultiPolygon": 1
+  },
+  "invalid_geometries": 0,
+  "crs": "EPSG:4326",
+  "area_stats_km2": {
+    "min": 0.0036094918837997715,
+    "max": 66.56351360654693,
+    "mean": 1.3060452548113222,
+    "median": 0.1651197241760441,
+    "q25": 0.06338299342863286,
+    "q75": 0.6195221958926731
+  },
+  "spatial_extent": {
+    "lon_min": 76.47712950261982,
+    "lon_max": 82.99380901235024,
+    "lat_min": 19.64600012169982,
+    "lat_max": 24.994355545767096
+  },
+  "excavation_estimate": {
+    "likely_excavated": 253,
+    "likely_not_excavated": 253,
+    "note": "Based on area heuristic (above median = likely excavated)"
+  }
+}
