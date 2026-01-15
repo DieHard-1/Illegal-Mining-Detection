@@ -23,7 +23,9 @@ Early pipeline stages allow noisy detections, while later stages enforce strict 
 
 ## 3. Directory Structure
 
-We_See_Your_Hole/
+Please download and extract the data directory and place in the directory according to the file structure given below [link](https://drive.google.com/file/d/1DWoU4oEyWLpueobO55T86ewA9aLhmnl7/view?usp=sharing)
+
+Illegal-Mining-Detection/
 │
 ├── data/
 │ ├── raw/
@@ -190,3 +192,4 @@ Run using:
 ```bash
 cd web
 streamlit run app.py
+
