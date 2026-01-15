@@ -23,6 +23,7 @@ Early pipeline stages allow noisy detections, while later stages enforce strict 
 
 ## 3. Directory Structure
 
+```text
 Illegal-Mining-Detection/
 │
 ├── data/
