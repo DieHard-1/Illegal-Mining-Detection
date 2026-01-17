@@ -1,4 +1,4 @@
-dd## 1. Project Overview
+## 1. Project Overview
 
 This project implements an end-to-end, unsupervised system for detecting illegal mining activity using multi-temporal Sentinel-2 satellite imagery.
 
